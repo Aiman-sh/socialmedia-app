@@ -1,6 +1,6 @@
 import './rightbar.css';
 import {Users} from "../../dummyData";
-import Online from "../online/Online";
+import Online from "../Online/Online";
 
 function Rightbar( {profile} ) {
     
@@ -50,23 +50,23 @@ function Rightbar( {profile} ) {
                 </div>
                 <div className="rightbarFollowing">
                     <img src="assets/person2.jpg" alt="" className="rightbarFollowingImg" />
-                    <span className="rightbarFollowingName">Timmy Drew</span>
+                    <span className="rightbarFollowingName">Janell Shrum</span>
                 </div>
                 <div className="rightbarFollowing">
                     <img src="assets/person3.jpg" alt="" className="rightbarFollowingImg" />
-                    <span className="rightbarFollowingName">Timmy Drew</span>
+                    <span className="rightbarFollowingName">Alex Durden</span>
                 </div>
                 <div className="rightbarFollowing">
                     <img src="assets/person4.jpg" alt="" className="rightbarFollowingImg" />
-                    <span className="rightbarFollowingName">Timmy Drew</span>
+                    <span className="rightbarFollowingName">Dora Hawks</span>
                 </div>
                 <div className="rightbarFollowing">
                     <img src="assets/person5.jpg" alt="" className="rightbarFollowingImg" />
-                    <span className="rightbarFollowingName">Timmy Drew</span>
+                    <span className="rightbarFollowingName">Thomas Holden</span>
                 </div>
                 <div className="rightbarFollowing">
                     <img src="assets/person6.jpg" alt="" className="rightbarFollowingImg" />
-                    <span className="rightbarFollowingName">Timmy Drew</span>
+                    <span className="rightbarFollowingName">Shirley Beauchamp</span>
                 </div>
 
 

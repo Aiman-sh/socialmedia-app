@@ -6,7 +6,7 @@ function Topbar(props) {
     return (
         <div className="topbarContainer">
             <div className="topbarLeft">
-                <span className="logo">Hello World</span>
+                <span className="logo">Hello Connect</span>
             </div>
             <div className="topbarCenter">
                 <div className="searchbar">
